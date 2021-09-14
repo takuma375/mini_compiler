@@ -3,3 +3,7 @@
 tmp*
 a.out
 minicom
+
+# vscodeのデバッガを使用した際に生成されるファイルを除外
+.vscode
+minicom.dSYM
